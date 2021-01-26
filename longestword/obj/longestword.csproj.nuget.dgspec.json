@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sejal\\source\\repos\\ConsoleApp4\\longestword\\longestword.csproj": {}
+    "C:\\program\\ConsoleApp4\\longestword\\longestword.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sejal\\source\\repos\\ConsoleApp4\\longestword\\longestword.csproj": {
+    "C:\\program\\ConsoleApp4\\longestword\\longestword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sejal\\source\\repos\\ConsoleApp4\\longestword\\longestword.csproj",
+        "projectUniqueName": "C:\\program\\ConsoleApp4\\longestword\\longestword.csproj",
         "projectName": "longestword",
-        "projectPath": "C:\\Users\\sejal\\source\\repos\\ConsoleApp4\\longestword\\longestword.csproj",
+        "projectPath": "C:\\program\\ConsoleApp4\\longestword\\longestword.csproj",
         "packagesPath": "C:\\Users\\sejal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sejal\\source\\repos\\ConsoleApp4\\longestword\\obj\\",
+        "outputPath": "C:\\program\\ConsoleApp4\\longestword\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sejal\\AppData\\Roaming\\NuGet\\NuGet.Config",
