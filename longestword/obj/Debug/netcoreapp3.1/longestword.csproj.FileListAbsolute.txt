@@ -1,0 +1,13 @@
+C:\Users\sejal\source\repos\ConsoleApp4\longestword\bin\Debug\netcoreapp3.1\longestword.exe
+C:\Users\sejal\source\repos\ConsoleApp4\longestword\bin\Debug\netcoreapp3.1\longestword.deps.json
+C:\Users\sejal\source\repos\ConsoleApp4\longestword\bin\Debug\netcoreapp3.1\longestword.runtimeconfig.json
+C:\Users\sejal\source\repos\ConsoleApp4\longestword\bin\Debug\netcoreapp3.1\longestword.runtimeconfig.dev.json
+C:\Users\sejal\source\repos\ConsoleApp4\longestword\bin\Debug\netcoreapp3.1\longestword.dll
+C:\Users\sejal\source\repos\ConsoleApp4\longestword\bin\Debug\netcoreapp3.1\longestword.pdb
+C:\Users\sejal\source\repos\ConsoleApp4\longestword\obj\Debug\netcoreapp3.1\longestword.csprojAssemblyReference.cache
+C:\Users\sejal\source\repos\ConsoleApp4\longestword\obj\Debug\netcoreapp3.1\longestword.AssemblyInfoInputs.cache
+C:\Users\sejal\source\repos\ConsoleApp4\longestword\obj\Debug\netcoreapp3.1\longestword.AssemblyInfo.cs
+C:\Users\sejal\source\repos\ConsoleApp4\longestword\obj\Debug\netcoreapp3.1\longestword.csproj.CoreCompileInputs.cache
+C:\Users\sejal\source\repos\ConsoleApp4\longestword\obj\Debug\netcoreapp3.1\longestword.dll
+C:\Users\sejal\source\repos\ConsoleApp4\longestword\obj\Debug\netcoreapp3.1\longestword.pdb
+C:\Users\sejal\source\repos\ConsoleApp4\longestword\obj\Debug\netcoreapp3.1\longestword.genruntimeconfig.cache
